@@ -1,0 +1,7 @@
+http://docker.jenkins:9080/
+admin
+J:eadfa96000614ebca264160a5db9e5f1
+
+http://docker.sonar:9000/
+admin:sonar
+T: squ_511b9a3ca18b671ede54cd265505145cad705e4d
